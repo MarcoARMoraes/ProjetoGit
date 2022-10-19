@@ -1,2 +1,3 @@
-Olá, esse projeto ensina a usar o Git.
-Isso é uma alteração.
+OlÃ¡, esse projeto ensina a usar o Git.
+Isso Ã© uma alteraÃ§Ã£o.
+Mais alteraÃ§Ã£o.
